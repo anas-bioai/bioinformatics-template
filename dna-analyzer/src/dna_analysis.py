@@ -124,9 +124,9 @@ def naive_with_rc(p,t):
             match=True
             if t[i+j]!=p[j]:
                 match=False
+                break
         if match==True:
-            break
-        appearences.append(i)
+           appearences.append(i)
 
     coappearences=[]
     cp=reverse_complement(p)
@@ -136,9 +136,9 @@ def naive_with_rc(p,t):
             match=True
             if t[i+j]!=cp[j]:
                 match=False
+                break
         if match==True:
-            break
-        coappearences.append(i)
+           coappearences.append(i)
     return appearences,coappearences
 
             
