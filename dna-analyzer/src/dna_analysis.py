@@ -129,7 +129,7 @@ def naive_with_rc(p,t):
         appearences.append(i)
 
     coappearences=[]
-    cp=reverse_complement
+    cp=reverse_complement(p)
 
     for i in range(len(t)-len(cp)+1):
         for j in range(len(cp)):
