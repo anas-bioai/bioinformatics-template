@@ -53,6 +53,7 @@ Fold change → Gene annotation → Pathway filtering → Visualization
 ---
 
 ## Project Structure
+```
 mito-ros-analysis/
 ├── data/
 │   ├── Normal/          ← normal tissue RNA-seq CSV files
@@ -64,7 +65,7 @@ mito-ros-analysis/
 │   ├── ros_genes.csv            ← oxidative stress genes
 │   └── results_annotated.csv    ← annotated results (offline cache)
 └── analysis.ipynb       ← main analysis notebook
-
+```
 ---
 
 ## Requirements
