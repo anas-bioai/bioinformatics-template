@@ -1,3 +1,10 @@
+# =========================
+# PROJECT SPECIFIC
+# =========================
+data/
+breast_cancer_results.csv
+mitochondrial_genes.csv
+oxidative_stress_genes.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
