@@ -5,9 +5,6 @@ This project performs a complete RNA-seq differential expression analysis
 comparing breast cancer tumor tissue versus normal tissue, with a specific 
 focus on mitochondrial and oxidative stress (ROS) gene dysregulation.
 
-Developed as part of the Master in Computational Biology & Bioinformatics  
-oral examination — FMPR.
-
 ---
 
 ## Biological Question
