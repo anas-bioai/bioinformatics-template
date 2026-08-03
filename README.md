@@ -106,4 +106,4 @@ is reduced in favor of aerobic glycolysis.
 ---
 
 ## Author
-**Anas**  
+**Anas El-Maroufi**  
