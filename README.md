@@ -107,5 +107,3 @@ is reduced in favor of aerobic glycolysis.
 
 ## Author
 **Anas**  
-Master Computational Biology & Bioinformatics  
-FMPR — 2025/2026
