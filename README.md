@@ -86,7 +86,7 @@ pip install pandas numpy scipy statsmodels matplotlib seaborn mygene adjustText
 ## How to Run
 1. Clone the repository
 2. Place RNA-seq CSV files in `data/Normal/` and `data/Tumor/`
-3. Open `analysis.ipynb` in Jupyter
+3. Open `mito-ros-analysis/analysis.ipynb` in Jupyter
 4. Run all cells sequentially
 
 > **Note:** Gene annotation (Section 5) requires internet connection  
