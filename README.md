@@ -5,9 +5,6 @@ This project performs a complete RNA-seq differential expression analysis
 comparing breast cancer tumor tissue versus normal tissue, with a specific 
 focus on mitochondrial and oxidative stress (ROS) gene dysregulation.
 
-Developed as part of the Master in Computational Biology & Bioinformatics  
-oral examination — FMPR.
-
 ---
 
 ## Biological Question
@@ -93,7 +90,7 @@ pip install pandas numpy scipy statsmodels matplotlib seaborn mygene adjustText
 ## How to Run
 1. Clone the repository
 2. Place RNA-seq CSV files in `data/Normal/` and `data/Tumor/`
-3. Open `analysis.ipynb` in Jupyter
+3. Open `mito-ros-analysis/analysis.ipynb` in Jupyter
 4. Run all cells sequentially
 
 > **Note:** Gene annotation (Section 5) requires internet connection  
@@ -113,6 +110,4 @@ is reduced in favor of aerobic glycolysis.
 ---
 
 ## Author
-**Anas**  
-Master Computational Biology & Bioinformatics  
-FMPR — 2025/2026
+**Anas El-Maroufi**  
