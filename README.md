@@ -59,6 +59,10 @@ mito-ros-analysis/
 │   ├── Normal/          ← normal tissue RNA-seq CSV files
 │   └── Tumor/           ← tumor tissue RNA-seq CSV files
 ├── results/
+│   ├── figures/
+│   │   ├── volcano_overview.png     ← Volcano Plot Overview
+│   │   ├── volcano_pathway.png      ← Volcano Plot Pathway Focus
+│   │   └── heatmap.png              ← Heatmap Top 30 genes
 │   ├── DEG_results.csv          ← full differential expression results
 │   ├── significant_genes.csv    ← significant DEGs
 │   ├── mito_genes.csv           ← mitochondrial genes
